@@ -1,6 +1,6 @@
 # pymesomodel
 
-This is a collection of tools arising from the course ATMS 597: [https://publish.illinois.edu/mesomodel/](https://publish.illinois.edu/mesomodel/).  If you have further contributions
+This is a collection of tools arising from the course ATMS 597: [https://publish.illinois.edu/mesomodel/](https://publish.illinois.edu/mesomodel/).  If you have further contributions, send me a pull request. :)
 
 ## Prerequisites
 
